@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2538827b-759c-4190-bb52-8db60e658462" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="donnvalencia.github.io.iws" />
@@ -29,12 +28,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="62" column="76" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="76" />
+            <state relative-caret-position="390">
+              <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4772#4778#0" expanded="true" />
-                <element signature="e#6077#6083#0" expanded="true" />
+                <element signature="e#3330#3336#0" expanded="true" />
+                <element signature="e#4635#4641#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -206,12 +205,12 @@
       <updated>1514313416898</updated>
       <workItem from="1514313418525" duration="1665000" />
       <workItem from="1514419936624" duration="569000" />
-      <workItem from="1514563651067" duration="377000" />
+      <workItem from="1514563651067" duration="566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2611000" />
+    <option name="totallyTimeSpent" value="2800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
@@ -257,8 +256,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4772#4778#0" expanded="true" />
-            <element signature="e#6077#6083#0" expanded="true" />
+            <element signature="e#3330#3336#0" expanded="true" />
+            <element signature="e#4635#4641#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -269,8 +268,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4772#4778#0" expanded="true" />
-            <element signature="e#6077#6083#0" expanded="true" />
+            <element signature="e#3330#3336#0" expanded="true" />
+            <element signature="e#4635#4641#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -279,12 +278,12 @@
     <entry file="file://$PROJECT_DIR$/img/profile.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="62" column="76" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="76" />
+        <state relative-caret-position="390">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4772#4778#0" expanded="true" />
-            <element signature="e#6077#6083#0" expanded="true" />
+            <element signature="e#3330#3336#0" expanded="true" />
+            <element signature="e#4635#4641#0" expanded="true" />
           </folding>
         </state>
       </provider>
