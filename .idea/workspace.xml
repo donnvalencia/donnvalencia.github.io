@@ -28,12 +28,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+            <state relative-caret-position="375">
+              <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3330#3336#0" expanded="true" />
-                <element signature="e#4635#4641#0" expanded="true" />
+                <element signature="e#3250#3256#0" expanded="true" />
+                <element signature="e#4555#4561#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,6 +58,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="878" />
@@ -138,7 +139,10 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/donnvalencia.github.io/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -192,6 +196,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -205,15 +217,15 @@
       <updated>1514313416898</updated>
       <workItem from="1514313418525" duration="1665000" />
       <workItem from="1514419936624" duration="569000" />
-      <workItem from="1514563651067" duration="566000" />
+      <workItem from="1514563651067" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="2883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <frame x="-1" y="22" width="1440" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -256,8 +268,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3330#3336#0" expanded="true" />
-            <element signature="e#4635#4641#0" expanded="true" />
+            <element signature="e#3250#3256#0" expanded="true" />
+            <element signature="e#4555#4561#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -268,8 +280,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3330#3336#0" expanded="true" />
-            <element signature="e#4635#4641#0" expanded="true" />
+            <element signature="e#3250#3256#0" expanded="true" />
+            <element signature="e#4555#4561#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -278,12 +290,12 @@
     <entry file="file://$PROJECT_DIR$/img/profile.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        <state relative-caret-position="375">
+          <caret line="84" column="28" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3330#3336#0" expanded="true" />
-            <element signature="e#4635#4641#0" expanded="true" />
+            <element signature="e#3250#3256#0" expanded="true" />
+            <element signature="e#4555#4561#0" expanded="true" />
           </folding>
         </state>
       </provider>
